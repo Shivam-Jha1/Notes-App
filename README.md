@@ -24,4 +24,5 @@ Save the note, and it will be added to the list.
 Edit or delete notes as needed.
 Utilize the search feature to find specific notes quickly.
 
-![photo_2024-02-07_16-43-06](https://github.com/Shivam-Jha1/Notes-App/assets/101012598/be9ee355-97db-4570-882d-42642f0e3a1a)
+![photo_2024-02-07_16-43-06](https://github.com/Shivam-Jha1/Notes-App/assets/101012598/be9ee355-97db-4570-882d-42642f0e3a1a)![photo_2024-02-07_16-43-13](https://github.com/Shivam-Jha1/Notes-App/assets/101012598/ad6285e0-85e6-4975-9e14-83ea240f7236)
+
